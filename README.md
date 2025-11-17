@@ -20,4 +20,6 @@ To assess the prescribing patterns, dispensing frequency, and consumption of ant
 - Information entered- Personal number, Gender, Age, Date of dispensing, Antihypertensives dispensed and the quantity( 0.5 for 2 weeks, 1 for one month, 2 for two months and so on)
 - The data was cleaned and analyzed using Microsoft Excel and Python packages for data and statistical analysis (Numpy, Pandas, Scipy, Matplotlib)
 
-
+**Confidentiality**
+-
+To maintain confidentiality, I did not mention the name of the facility and I did not upload the dataset
